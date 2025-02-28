@@ -1,0 +1,90 @@
+[ {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_RyXlEPW7Ee-S1K7Cvtmgpw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_C-fsoPWxEe-S1K7Cvtmgpw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_QnQAIPWXEe-S1K7Cvtmgpw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_C-fsoPWxEe-S1K7Cvtmgpw - DimAccount",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_C-fsoPWxEe-S1K7Cvtmgpw - DimBranch",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_C-fsoPWxEe-S1K7Cvtmgpw - DimCustomer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_QnQAIPWXEe-S1K7Cvtmgpw - account",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_QnQAIPWXEe-S1K7Cvtmgpw - branch",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_QnQAIPWXEe-S1K7Cvtmgpw - city",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_QnQAIPWXEe-S1K7Cvtmgpw - customer",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_QnQAIPWXEe-S1K7Cvtmgpw - state",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_rYIsQPXlEe-S1K7Cvtmgpw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_C-fsoPWxEe-S1K7Cvtmgpw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_QnQAIPWXEe-S1K7Cvtmgpw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]
