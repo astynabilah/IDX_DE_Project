@@ -1,5 +1,5 @@
 # Data Engineer Project - ID/X Partners
-This repository contains the implementation of Data Warehouse and ETL using Talend Cloud Management Studio
+This repository contains the implementation of Data Warehouse and ETL using Talend Cloud Management Studio. This project is a part of Project-Based-Internship program at id/x partners.
 
 ## Tech Stack
 - **Talend Cloud Studio** → ETL Process  
